@@ -55,7 +55,8 @@
 
     <Preference
         android:key="pref_trust_apps"
-        android:title="@string/trust_apps_manager_name" />
+        android:title="@string/trust_apps_manager_name"
+        android:summary="@string/trust_app_summary" />
 
     <Preference
         android:key="app_drawer"
